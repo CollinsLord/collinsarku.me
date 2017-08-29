@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Prog Home</title>
+        <title>Arku Collins Yao</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
@@ -79,14 +79,16 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                   Prog-Home
+                   Arku Collins Yao 
                 </div>
 
                 <div class="links">
                     <a href="/home">Home</a>
                     <a href="/about">About</a>
-                    <a href="/contact">Contact</a>
-                    <a href="/profile">Profile</a>
+		    <a href="/cv">CV</a>
+                    <a href="/contact">Project</a>
+                    <a href="/blog">Blog</a>
+		    <a href="/hireme">Hire me</a>
                     <a href="https://github.com/CollinsLord/prog-Laravel">GitHub</a>
                 </div>
             </div>
