@@ -83,13 +83,13 @@
                 </div>
 
                 <div class="links">
-                    <a href="/home">Home</a>
+                    <a href="/">Home</a>
                     <a href="/about">About</a>
 		    <a href="/cv">CV</a>
                     <a href="/contact">Project</a>
                     <a href="/blog">Blog</a>
 		    <a href="/hireme">Hire me</a>
-                    <a href="https://github.com/CollinsLord/prog-Laravel">GitHub</a>
+                    <a href="https://github.com/CollinsLord">GitHub</a>
                 </div>
             </div>
         </div>
