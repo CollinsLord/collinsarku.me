@@ -42,7 +42,13 @@
               <a class="nav-link" href="about.html">About</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="post.html">Sample Post</a>
+              <a class="nav-link" href="post.html">Cv</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="post.html">Project</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="post.html">Hire</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="contact.html">Contact</a>

@@ -10,7 +10,7 @@ class PagesController extends Controller {
     }
     
     public function getAbout() {
-         return view('Pages.myhome');
+         
     }
 
     public function getContact() {
