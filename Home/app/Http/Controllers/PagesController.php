@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 class PagesController extends Controller {
     
     public function getIndex() {
-        return view('Pages.welcome');
+        return view('Pages.index');
 
     }
     
@@ -14,7 +14,7 @@ class PagesController extends Controller {
     }
 
     public function getContact() {
-         return view('Pages.main');
+         return view('Pages.');
     }
 
     public function postContact() {
