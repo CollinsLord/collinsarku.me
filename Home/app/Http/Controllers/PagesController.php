@@ -6,7 +6,6 @@ class PagesController extends Controller {
     
     public function getIndex() {
         return view('Pages.index');
-
     }
     
     public function getProject() {
@@ -14,13 +13,15 @@ class PagesController extends Controller {
     }
 
     public function getContact() {
-         return view('Pages.');
+         return view('Pages.contact');
     }
 
-    public function postContact() {
-        
+    public function getCv() {
+        return view('Pages.Cv');  
     }
-
+     public function getHire() {
+        return view('Pages.hire');  
+    }
 
 
 } 
