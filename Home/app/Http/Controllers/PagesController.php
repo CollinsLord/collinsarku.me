@@ -9,8 +9,8 @@ class PagesController extends Controller {
 
     }
     
-    public function getAbout() {
-         
+    public function getProject() {
+         return view('Pages.project');
     }
 
     public function getContact() {
