@@ -17,10 +17,13 @@ class PagesController extends Controller {
     }
 
     public function getCv() {
-        return view('Pages.Cv');  
+        return view('Pages.cv');  
     }
      public function getHire() {
         return view('Pages.hire');  
+    }
+     public function getAbout() {
+        return view('Pages.about');  
     }
 
 

@@ -1,11 +1,11 @@
 <? php
-@extends('layout.main')
+@extends('layout.main');
 
 // section for the banner it items 
 @section('banner')
 
- <h1>Software Devp.</h1>
-<span class="subheading">Hello,a bit about me:</span>
+ <h1>Contact</h1>
+<span class="subheading">Hello,You can contact me for more info</span>
 
 
 @endsection

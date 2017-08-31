@@ -4,8 +4,8 @@
 // section for the banner it items 
 @section('banner')
 
- <h1>Software Devp.</h1>
-<span class="subheading">Hello,a bit about me:</span>
+ <h1>Resume</h1>
+<span class="subheading">Hello,a bit about my skills and experience</span>
 
 
 @endsection
