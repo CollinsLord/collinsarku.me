@@ -27,77 +27,7 @@
         </div>
           <hr>
           <div class="post-preview">
-            <a href="post.html">
-              <h2 class="post-title">
-               Language
-              </h2>
-            </a>
-            <section class="">
-				<p>
-          
-         <a href="/c" class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">Logic Building</a>
-         <a href="/c" class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">C++</a>
-         <a href="/c" class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">C#</a>
-        <a href="/c" class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">JAVA (J2EE)</a>
-        <a href="/c" class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">PHP</a>
-        <a href="/c" class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">PHP</a>
-				</p>
-      </section>
-          </div>
-          <hr>
-          <div class="post-preview">
-            <a href="post.html">
-              <h2 class="post-title">
-               Framework
-              </h2>
-            </a>
-            <section class="">
-				<p>
-          
-         <a href="/c" class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">Laravel</a>
-         <a href="/c" class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">Bootstrap</a>
-         <a href="/c" class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">Bootface</a>
-        <a href="/c" class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">Django</a>
-       
-				</p>
-      </section>
-          </div>
-          <hr>
-          <div class="post-preview">
-            <a href="post.html">
-              <h2 class="post-title">
-               Infrastructure
-              </h2>
-            </a>
-            <section class="">
-				<p>
-          
-         <a href="/c" class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">Linux</a>
-         <a href="/c" class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">Mysql</a>
-         <a href="/c" class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">sql</a>
-        <a href="/c" class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">lamp server</a>
-       
-				</p>
-      </section>
-          </div>
-          <hr>
-          <div class="post-preview">
-            <a href="post.html">
-              <h2 class="post-title">
-               Tools
-              </h2>
-            </a>
-            <section class="">
-				<p>
-          
-         <a href="/c" class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">Netbeans</a>
-         <a href="/c" class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">Visual Studio code</a>
-         <a href="/c" class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">git</a>
-        <a href="/c" class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">Adobe photoshop</a>
-        <a href="/c" class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">font awesome</a>
-         <a href="/c" class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">Adobe photoshop</a>
-        </p>
-      </section>
+            
           </div>
           <hr>
           <!-- Pager -->
