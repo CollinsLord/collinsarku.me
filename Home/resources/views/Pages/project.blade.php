@@ -27,20 +27,10 @@
           <div class="post-preview">
             <a href="post.html">
               <h2 class="post-title">
-               Language
+               Projects
               </h2>
             </a>
-            <section class="">
-				<p>
-          
-         <a href="/c" class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">Logic Building</a>
-         <a href="/c" class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">C++</a>
-         <a href="/c" class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">C#</a>
-        <a href="/c" class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">JAVA (J2EE)</a>
-        <a href="/c" class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">PHP</a>
-        <a hrefme="/c" class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">PHP</a>
-				</p>
-      </section>
+       
           </div>
           <hr>
           
