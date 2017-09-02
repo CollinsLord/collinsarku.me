@@ -1,5 +1,5 @@
 <? php
-@extends('layout.main')
+@extends('layout.main');
 
 // section for the banner it items 
 @section('banner')
