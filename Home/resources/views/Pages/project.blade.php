@@ -1,8 +1,7 @@
-<? php
-   
+ 
 @extends('layout.main')
 
-// section for the banner it items 
+ 
 @section('banner')
  <h1>Project Section</h1>
 <span class="subheading">Hello,a bit about my projects:</span>
@@ -10,7 +9,7 @@
 
 @endsection
 
-//A section for the body content
+
 @section('body')
 <div class="post-preview " >
             <a href="#">
