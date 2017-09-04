@@ -15,7 +15,7 @@
 <div class="post-preview " >
             <a href="#">
               <h2 class="post-title">
-                Skills
+               Resume
               </h2>
               </a>
             <li>Possess effective communication skills, which enable me to get the point across in a way in which technologically savvy individuals and laypersons can understand.</li>
