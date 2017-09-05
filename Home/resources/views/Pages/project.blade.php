@@ -1,4 +1,4 @@
- 
+
 @extends('layout.main')
 
  
@@ -50,4 +50,3 @@
           </div>
 
 @endsection
-?>

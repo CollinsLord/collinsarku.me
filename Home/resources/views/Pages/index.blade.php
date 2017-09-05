@@ -27,18 +27,20 @@
           <div class="post-preview">
             <a href="post.html">
               <h2 class="post-title">
-               Language
+               Software Engineer
               </h2>
             </a>
             <section class="">
 				<p>
-          
-         <a href="/c" class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">Logic Building</a>
-         <a href="/c" class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">C++</a>
-         <a href="/c" class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">C#</a>
-        <a href="/c" class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">JAVA (J2EE)</a>
-        <a href="/c" class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">PHP</a>
-        <a href="/c" class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">PHP</a>
+          I am a software engineer that has skills in both the back-end of web application
+          and the front-end.My previous career as a designer brought me close to
+          my true passion building web applications.I wasn't satisfied with only being involved in 
+          the visual aspect I wanted a deeper involvement in building out applictions.
+          In the next phase of my career,I do not only want to use my desing skills to make 
+          the application looks splendid, but I also want to work on the technically challenging facet of the application too.
+          I would love to work as team that fellow best practices like Test Driven Development and pair programming to help 
+          me learn and grow as a developer.
+         
 				</p>
       </section>
           </div>
@@ -46,38 +48,19 @@
           <div class="post-preview">
             <a href="post.html">
               <h2 class="post-title">
-               Framework
+               Web developer
               </h2>
             </a>
             <section class="">
 				<p>
-          
-         <a href="/c" class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">Laravel</a>
-         <a href="/c" class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">Bootstrap</a>
-         <a href="/c" class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">Bootface</a>
-        <a href="/c" class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">Django</a>
-       
+         I am a web developer with experience primarily in php , Django JSF but 
+         with an interest in Laravel for the back-end of applications.I am basic programming teacher.When i start,the students didn't have grasp on the fundamentals they needed,but after uncovering the
+         problem,I developed the curriculum and the process to help my students master the basics of programming in C,C++,Html 5,
+         UI/UX,SQL Server ,XML and Web productive tools.
 				</p>
       </section>
           </div>
-          <hr>
-          <div class="post-preview">
-            <a href="post.html">
-              <h2 class="post-title">
-               Infrastructure
-              </h2>
-            </a>
-            <section class="">
-				<p>
           
-         <a href="/c" class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">Linux</a>
-         <a href="/c" class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">Mysql</a>
-         <a href="/c" class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">sql</a>
-        <a href="/c" class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">lamp server</a>
-       
-				</p>
-      </section>
-          </div>
           <hr>
           <div class="post-preview">
             <a href="post.html">
@@ -93,7 +76,6 @@
          <a href="/c" class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">git</a>
         <a href="/c" class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">Adobe photoshop</a>
         <a href="/c" class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">font awesome</a>
-         <a href="/c" class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">Adobe photoshop</a>
         </p>
       </section>
           </div>
