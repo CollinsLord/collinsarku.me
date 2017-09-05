@@ -24,39 +24,19 @@
         <li> Ability to creatively develop new computer programs which will touch upon various pertinent aspects necessary in today’s society. </li> 
         </div>
           <hr>
-          <div class="post-preview">
-            <a href="post.html">
-              <h2 class="post-title">
-               Software Engineer
-              </h2>
-            </a>
-            <section class="">
-				<p>
-          I am a software engineer that has skills in both the back-end of web application
-          and the front-end.My previous career as a designer brought me close to
-          my true passion building web applications.I wasn't satisfied with only being involved in 
-          the visual aspect I wanted a deeper involvement in building out applictions.
-          In the next phase of my career,I do not only want to use my desing skills to make 
-          the application looks splendid, but I also want to work on the technically challenging facet of the application too.
-          I would love to work as team that fellow best practices like Test Driven Development and pair programming to help 
-          me learn and grow as a developer.
-         
-				</p>
-      </section>
-          </div>
+          
           <hr>
           <div class="post-preview">
             <a href="post.html">
               <h2 class="post-title">
-               Web developer
+               Software Developer
               </h2>
             </a>
             <section class="">
 				<p>
-         I am a web developer with experience primarily in php , Django JSF but 
-         with an interest in Laravel for the back-end of applications.I am basic programming teacher.When i start,the students didn't have grasp on the fundamentals they needed,but after uncovering the
-         problem,I developed the curriculum and the process to help my students master the basics of programming in C,C++,Html 5,
-         UI/UX,SQL Server ,XML and Web productive tools.
+         I am a software/Web developer with experience primarily in php,Django JSF but 
+         with an interest in Laravel for the back-end of web applications and Java(2EE) for my Enterprise Application .I developed the curriculum and the process to help my friends master the basics of programming in C,C++,Html 5,
+         UI/UX,SQL Server ,XML,Basic Java and Web productive tools.
 				</p>
       </section>
           </div>
@@ -71,11 +51,11 @@
             <section class="">
 				<p>
           
-         <a href="/c" class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">Netbeans</a>
-         <a href="/c" class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">Visual Studio code</a>
-         <a href="/c" class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">git</a>
-        <a href="/c" class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">Adobe photoshop</a>
-        <a href="/c" class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">font awesome</a>
+         <button class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">Netbeans</button>
+         <button class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">Visual Studio code</button>
+         <button class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">git</button>
+        <button class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">Adobe photoshop</button>
+        <button class="btn btn-1 btn-1a color-1" role="button" style="margin-right: -30px;">font awesome</button>
         </p>
       </section>
           </div>
