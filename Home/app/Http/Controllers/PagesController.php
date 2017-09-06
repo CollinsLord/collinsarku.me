@@ -1,6 +1,10 @@
 <?php
 
 namespace App\Http\Controllers;
+use Illuminate\Http\Requests;
+use Illuminate\Http\Request;
+use Mail;
+use App\Http\Controllers\Controller;
 
 class PagesController extends Controller {
     
@@ -25,6 +29,27 @@ class PagesController extends Controller {
      public function getAbout() {
         return view('Pages.about');  
     }
+    public function getinfo(){
+         
+         return view('Page.contact');
+    }
+    public function postContacts(Request $request){
+        
 
+            $data = array(
+            'email' => $request->email,
+            'name' => $request->name,
+            'message'=>$request->message,
+            'phone' =>$request->phone
+            );
+
+        Mail::send('email.contact', $data, function($messages) use ($data){
+            $messages->from($data['email']);
+            $messages->to('arkucollins@gmai.com');
+            
+           
+
+         });
+    }
 
 } 

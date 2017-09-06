@@ -17,3 +17,4 @@ Route::get('cv','PagesController@getCv');
 Route::get('hire','PagesController@getHire');
 Route::get('contact', 'PagesController@getContact');
 Route::get('about', 'PagesController@getAbout');
+Route::post('contact','PagesController@postContacts');
