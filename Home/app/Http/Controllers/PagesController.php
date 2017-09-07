@@ -1,8 +1,8 @@
 <?php
 
 namespace App\Http\Controllers;
-use Illuminate\Http\Requests;
 use Illuminate\Http\Request;
+//use Illuminate\Http\Request;
 use Mail;
 use App\Http\Controllers\Controller;
 
@@ -34,7 +34,13 @@ class PagesController extends Controller {
          return view('Page.contact');
     }
     public function postContacts(Request $request){
-        
+        $this->validate($request,[
+           'email' =>'required|email',
+           'name' =>'required',
+           'phone' =>'required',
+           'message' =>'required'
+
+        ]);
 
             $data = array(
             'email' => $request->email,
@@ -46,6 +52,8 @@ class PagesController extends Controller {
         Mail::send('email.contact', $data, function($messages) use ($data){
             $messages->from($data['email']);
             $messages->to('arkucollins@gmai.com');
+            $messages->subject($data['name']);
+
             
            
 
