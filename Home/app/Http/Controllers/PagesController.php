@@ -58,7 +58,7 @@ class PagesController extends Controller {
          });
        //Session::flash('success','Your email was Sent');
        //return redirect()->url('/');
-        return redirect()->back()->with('error', 'Something went wrong.');
+        return redirect()->back()->with('succesful', 'Your Email has been sent.');
     }
 
 } 
