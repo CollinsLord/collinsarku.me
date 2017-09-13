@@ -133,10 +133,5 @@
 
 
   </body>
-<!--
-   I am a software/Web developer with experience primarily in php , Django JSF but 
-         with an interest in Laravel for the back-end of web applications and Java(2EE) for my Enterprise Application .I am basic programming teacher.When i start,the students didn't have grasp on the fundamentals they needed,but after uncovering the
-         problem,I developed the curriculum and the process to help my students master the basics of programming in C,C++,Html 5,
-         UI/UX,SQL Server ,XML and Web productive tools.
--->
+
 </html>

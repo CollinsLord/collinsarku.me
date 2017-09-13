@@ -17,13 +17,17 @@
 <div class="post-preview " >
             <a href="#">
               <h2 class="post-title">
-                Skills
+                Hello
               </h2>
               </a>
-            <li>Possess effective communication skills, which enable me to get the point across in a way in which technologically savvy individuals and laypersons can understand.</li>
-        <li>Possess a well-rounded computer education and work history, which enables me to work in a variety of job roles related to Information Technology.</li>
-        <li>Perform various researching duties in an effective and efficient manner in such a way to leave no document unturned.</li>
-        <li> Ability to creatively develop new computer programs which will touch upon various pertinent aspects necessary in today’s society. </li> 
+              I am a developer with experience in my field.I currently leave in Accra Ghana,
+            I have built several projects on my own from scratch and work with other developers on projects.
+              I think my experience in the industry and my ability to work autonomously 
+              make me a good developer to work as an individual or within a team.
+              I have the savvy, experience and superior communication ability to be an asset to you as well as your company.
+              Please feel free to checkout my projects  I have worked on <a href="#">Github</a> or on my project page
+              If you have a project you wish to discuss or work with me you can get in touch with me on my <a href="/contact">Contact me </a>
+            
         </div>
           <hr>
           <div class="post-preview">
