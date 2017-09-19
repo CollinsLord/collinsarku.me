@@ -29,7 +29,8 @@
         </p>
         <div class="collapse" id="collins">
   <div class="card card-body">
-    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.
+    This is my personal blog build in laravel (php framework)
+   
   </div>
 </div>
       </section>
