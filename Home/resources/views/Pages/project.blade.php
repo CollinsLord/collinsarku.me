@@ -29,7 +29,8 @@
         </p>
         <div class="collapse" id="collins">
   <div class="card card-body">
-    This is my personal blog build in laravel (php framework)
+   This is my personal online portfolio and blog, 
+   which contains information on my technical skills and the projects I have worked on. 
    
   </div>
 </div>
